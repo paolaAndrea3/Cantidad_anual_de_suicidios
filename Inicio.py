@@ -114,7 +114,7 @@ with col2:
             <p class="student-name">Kevin Olivella, Marvin García y Paola Murillo</p>
             <p class="student-detail">Programa: <span style="font-weight: bold;">Desarrollo de Software: Nuevas Tecnologías</span></p>
             <p class="student-detail">Semestre: <span style="font-weight: bold;">2025-1</span></p>
-            <p class="student-detail">Repositorio: <a href="" target="_blank" class="github-link">GitHub</a></p>
+            <p class="student-detail">Repositorio: <a href="https://github.com/paolaAndrea3/Cantidad_anual_de_suicidios.git" target="_blank" class="github-link">GitHub</a></p>
             <p class="student-detail">¡Apasionados por la creación de soluciones innovadoras con tecnología de punta!</p>
         </div>
     """, unsafe_allow_html=True)
